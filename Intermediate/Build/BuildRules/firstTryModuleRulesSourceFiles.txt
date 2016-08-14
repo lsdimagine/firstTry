@@ -1,0 +1,3 @@
+/Users/shidonglin/Documents/Unreal Projects/firstTry/Source/firstTry/firstTry.Build.cs
+/Users/shidonglin/Documents/Unreal Projects/firstTry/Source/firstTry.Target.cs
+/Users/shidonglin/Documents/Unreal Projects/firstTry/Source/firstTryEditor.Target.cs
